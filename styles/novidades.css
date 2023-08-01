@@ -1,0 +1,27 @@
+.novidades {
+    padding: 1em;
+    background-color: var(--branco);
+}
+
+.novidades__titulo {
+    font-size: 18px;
+    font-weight: 800;
+    color: var(--roxo);
+    padding-bottom: 1em;
+}
+
+.novidades__texto {
+    font-size: 16px;
+    font-weight: 300;
+    padding-bottom: 1em;
+}
+
+.novidades__input {
+    width: 100%;
+    padding: 1em;
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--roxo);
+    border-radius: 24px;
+    border: 1px solid var(--roxo);
+}
